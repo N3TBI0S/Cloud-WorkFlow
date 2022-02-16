@@ -1,4 +1,4 @@
 # Cloud Workflow
 ### An AutoHotKey program created to further workforce productivity.
 
-![Cloud Workflow - Release](https://user-images.githubusercontent.com/75401074/154320392-4dc82a2e-5578-4697-8dfe-e2c11b979445.png)
+![Cloud WorkFlow](https://user-images.githubusercontent.com/75401074/154369253-9318bbf0-802b-4443-8773-f3c3069da2f8.png)
